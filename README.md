@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Java Developer
 --------------
 
-I am a Java developer with several years of experience in developing web applications using Java technologies.
+As a Java Developer with 1 year of experience, I have developed a solid understanding of Java programming concepts and web development technologies. I have a passion for building scalable and efficient applications and have experience working with various frameworks and tools such as Spring Boot, Rest ,Hibernane. I am highly adaptable, able to work independently or in a team, and have excellent problem-solving skills. I am always eager to learn new technologies and strive to stay up-to-date with the latest industry trends. If you're looking for a dedicated and talented Java Developer to join your team, please feel free to reach out to me.
 
 * 🌍  I'm based in Bishkek,Kyrgyzstan
 * ✉️  You can contact me at [aisezimorozbaikyzy@gmail.com](mailto:aisezimorozbaikyzy@gmail.com)
