@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 --------------
 Java Developer
 
-<img align="right" width="350" alt="coding" src="https://camo.githubusercontent.com/6f5e3ead776bc722fbfc3da2c8b1454a7a5f27a07b34c0ced075f90a6c25a3be/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313630302f302a4b32574c4d5445784c79696461374f522e676966"/>
+<img align="right" width="200" alt="coding" src="https://camo.githubusercontent.com/6f5e3ead776bc722fbfc3da2c8b1454a7a5f27a07b34c0ced075f90a6c25a3be/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313630302f302a4b32574c4d5445784c79696461374f522e676966"/>
 
 As a Java Developer with 1 year of experience, I have developed a solid understanding of Java programming concepts and web development technologies. I have a passion for building scalable and efficient applications and have experience working with various frameworks and tools such as Spring Boot, Rest ,Hibernane. I am highly adaptable, able to work independently or in a team, and have excellent problem-solving skills. I am always eager to learn new technologies and strive to stay up-to-date with the latest industry trends. If you're looking for a dedicated and talented Java Developer to join your team, please feel free to reach out to me.
 
