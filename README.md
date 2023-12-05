@@ -5,7 +5,6 @@ Java Developer
 
 <img align="right" width="450" alt="coding" src="https://camo.githubusercontent.com/6f5e3ead776bc722fbfc3da2c8b1454a7a5f27a07b34c0ced075f90a6c25a3be/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313630302f302a4b32574c4d5445784c79696461374f522e676966"/>
 
- I am a Java developer with 1.5 years of experience. I have a strong foundation in Java programming and have worked with various technologies and frameworks, including the Spring Framework and Hibernate. I have experience developing web applications and working with databases such as MySQL and PostgreSQL. I am committed to staying up-to-date with the latest trends and technologies in the field of Java development.
 
 * 🌍  I'm based in Bishkek,Kyrgyzstan
 * ✉️  You can contact me at [aisezimorozbaikyzy@gmail.com](mailto:aisezimorozbaikyzy@gmail.com)
